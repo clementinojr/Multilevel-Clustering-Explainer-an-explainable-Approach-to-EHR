@@ -61,7 +61,6 @@ def preparing_plot(df_clustering_complete,label)
     lista_pro = list(df['nome_pro'].values)
     lista_v = list(df['contagem'].values)
     
-    #en_lista_pro = ['Creatine/sorology','Urea/sorology','Potassium/sorology','Platelet count','Complete blood count + platelet count','Sodium/sorology','Electrocardiogram','Cardiology appointment','CK-MB mass','Troponin 1','Coagulogram','Type 1 urine','Glucose/sorology','Service social appointment','Magnesium/sorology','Echocardiogram with color doppler-acquired','Ionized calcium','CPK- creatinophosphokinase','Chest X-ray','Natriuretic peptide type B']
 
     return [lista_pro,lista_v]
 
