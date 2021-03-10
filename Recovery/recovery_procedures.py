@@ -63,6 +63,3 @@ def preparing_plot(df_clustering_complete,label)
     
 
     return [lista_pro,lista_v]
-
-   
-   
