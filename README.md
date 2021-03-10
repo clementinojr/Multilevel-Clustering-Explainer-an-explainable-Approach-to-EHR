@@ -40,7 +40,8 @@ The authors would like to thank Brazilian Coordination of Superior Level Staff I
 
 
 
-### References ####
+### References ###
+
 
 [1] .  Xie,  X.  A.  Chen,  and  G. Gao,  “Outlining  the  designspace   of   explainable   intelligent   systems   for   medicaldiagnosis,”  inJoint  Proceedings  of  the  ACM  IUI  2019,Los Angeles, USA, March 20, 2019. [Online]. Available:http://ceur-ws.org/Vol-2327/IUI19WS-ExSS2019-18.pdf[2].
 
@@ -57,7 +58,6 @@ The authors would like to thank Brazilian Coordination of Superior Level Staff I
 [7] F.  Cavaliereet  al.,  “Parkinson’s  disease  diagnosis:  To-wards grammar-based explainable artificial intelligence,”in2020 IEEE Symposium on Computers and Communi-cations (ISCC), 2020, pp. 1–6.
 
 [8] D.  Haimovichet  al.,  “Development  and  validationof  the  quick  covid-19  severity  index:  a  prognostic  toolfor early clinical decompensation,”Annals of emergencymedicine, vol. 76, no. 4, pp. 442–453, 2020.
-
 
 [9] A.  Morichetta,  P.  Casas,  and  M.  Mellia,  “Explain-it:Towards  explainable  ai  for  unsupervised  network  trafficanalysis,”   inProceedings   of   the   3rd   ACM   CoNEXTWorkshop on Big DAta, Machine Learning and ArtificialIntelligence   for   Data   Communication   Networks,   ser.Big-DAMA  ’19.New  York,  NY,  USA:  Associationfor  Computing  Machinery,  2019,  p.  22–28.  [Online].Available: https://doi.org/10.1145/3359992.3366639.
 
