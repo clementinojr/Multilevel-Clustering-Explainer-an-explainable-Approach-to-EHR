@@ -8,7 +8,7 @@ The repository is organized as follows:
   * [Experiments Results:](https://github.com/clementinojr/Multilevel-Clustering-Explainer-an-explainable-Approach-to-EHR/tree/main/Experiments-Result) contains the base files used to implement and obtain the results. The files contain the figures of the results obtained for both local and global level.
   * [Recovery:](https://github.com/clementinojr/Multilevel-Clustering-Explainer-an-explainable-Approach-to-EHR/tree/main/Recovery) contain the code and notebook used in the pre-processing of the visualization to retrieve the information described in phase 3 of the proposed method.
    * [plot_functions:](https://github.com/clementinojr/Multilevel-Clustering-Explainer-an-explainable-Approach-to-EHR/tree/main/plot_functions) contains the functions used to generate the visual graphics.
-* [complete_script_.py:]And in the file "..." contains the script used to generate all the results both globally and locally.
+  * [complete_script_.py:] contains the script used to generate all the results both globally and locally.
 
 ### 2. Minimum requirements ###
 
