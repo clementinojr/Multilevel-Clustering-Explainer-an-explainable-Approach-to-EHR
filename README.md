@@ -1,4 +1,4 @@
-# Multilevel Clustering Explainer: An explainable Approach to Hospitalization Record
+# Multilevel Clustering Explainer: An ExplainableApproach to Electronic Health Records
 
 
 **Attention**: MCE **not** a commercial method. It is designed for educational and demonstration purposes **only**.
