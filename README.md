@@ -8,7 +8,7 @@ The repository is organized as follows:
   * [Experiments Results:](https://github.com/clementinojr/Multilevel-Clustering-Explainer-an-explainable-Approach-to-EHR/tree/main/Experiments-Result) contains the base files used to implement and obtain the results. The files contain the figures of the results obtained for both local and global level.
   * [Recovery:](https://github.com/clementinojr/Multilevel-Clustering-Explainer-an-explainable-Approach-to-EHR/tree/main/Recovery) contain the code and notebook used in the pre-processing of the visualization to retrieve the information described in phase 3 of the proposed method.
    * [plot_functions:](https://github.com/clementinojr/Multilevel-Clustering-Explainer-an-explainable-Approach-to-EHR/tree/main/plot_functions) contains the functions used to generate the visual graphics.
-
+* [complete_script_.py:]And in the file "..." contains the script used to generate all the results both globally and locally.
 
 ### 2. Minimum requirements ###
 
@@ -24,21 +24,12 @@ The repository is organized as follows:
   * time import gmtime, strftime
   * datetime import datetime
   * lime
+  * others
 
 
-### 4. Explain with code Bag-of-Attribute ###
+### 4. Multilevel Clustering Explainer (MCE)  workflow. Adequacy of data in(Phase~1), construction of explanatory information (with different levels of detail, Local or Global) in(Phase 2), and presentation of information in(Phase 3 ###
 
  ![Main](./fig-general-method.png)
-
-
-**Phase (1) :** module was implemented as a function in the {*Structured Query Language*} (SQL) language to select all data referring to hospital admissions started within a time interval, which is a previously configured parameter. The two function utilized in this work can be find in Folder **"Select Cohort"**: [cohort_by_period_with_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_with_null.sql) and [cohort_by_period_without_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_without_null.sql).
-
-
-**Phase (2) :** module was implemented as a function in the {*Structured Query Language*} (SQL) language to select all data referring to hospital admissions started within a time interval, which is a previously configured parameter. The two function utilized in this work can be find in Folder **"Select Cohort"**: [cohort_by_period_with_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_with_null.sql) and [cohort_by_period_without_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_without_null.sql).
-
-
-**Phase (3) :** module was implemented as a function in the {*Structured Query Language*} (SQL) language to select all data referring to hospital admissions started within a time interval, which is a previously configured parameter. The two function utilized in this work can be find in Folder **"Select Cohort"**: [cohort_by_period_with_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_with_null.sql) and [cohort_by_period_without_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_without_null.sql).
-
 
 
 
